@@ -7,7 +7,7 @@ import json
 from telebot import types
 import db
 URL = 'https://krot.info/uploads/posts/2019-06/1559743235_sexy-model-woman-ass-gorgeous-pov-from-behind.jpg'
-Bot_Token = '1196864922:AAE8M7uLGI9nnyrVg4WG4rQ9qPkvpHROqzk'
+
 bot = telebot.TeleBot(Bot_Token)
 Rate = False
 @bot.message_handler(commands = ['start'])
